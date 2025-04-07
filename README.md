@@ -4,7 +4,7 @@
     * Python
         * re package `pip install re`
 * Setup (Run the following commands in the terminal)
-    * Clone the repository `git clone https://github.com/Shashhank12/TrackPackage.git`
+    * Clone the repository `git clone https://github.com/Shashhank12/PackageTracking`
     * Go into the directory `cd TrackPackage`
     * Run the chatbot using `python trackpackage.py` or `python3 trackpackage.py`
 
